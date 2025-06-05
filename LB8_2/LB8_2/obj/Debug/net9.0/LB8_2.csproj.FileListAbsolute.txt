@@ -1,0 +1,14 @@
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\bin\Debug\net9.0\LB8_2.exe
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\bin\Debug\net9.0\LB8_2.deps.json
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\bin\Debug\net9.0\LB8_2.runtimeconfig.json
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\bin\Debug\net9.0\LB8_2.dll
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\bin\Debug\net9.0\LB8_2.pdb
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\obj\Debug\net9.0\LB8_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\obj\Debug\net9.0\LB8_2.AssemblyInfoInputs.cache
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\obj\Debug\net9.0\LB8_2.AssemblyInfo.cs
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\obj\Debug\net9.0\LB8_2.csproj.CoreCompileInputs.cache
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\obj\Debug\net9.0\LB8_2.dll
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\obj\Debug\net9.0\refint\LB8_2.dll
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\obj\Debug\net9.0\LB8_2.pdb
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\obj\Debug\net9.0\LB8_2.genruntimeconfig.cache
+C:\Users\ку\Desktop\proga\LB8_2\LB8_2\obj\Debug\net9.0\ref\LB8_2.dll
